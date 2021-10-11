@@ -18,3 +18,6 @@ Important APIs Provided by the server
  4. API to delete the todo
     DELETE '/todos/:id'
 
+Screenshot showing the todos collection in the MongoDB
+![Screenshot](todos_collection.png)
+
